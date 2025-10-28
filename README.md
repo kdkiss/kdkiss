@@ -1,66 +1,63 @@
-# Hi, I'm Kolja 👋
+# Fraud & Financial Crime Specialist · AI Automation & Agentic Systems
 
-**Fraud Specialist × AI/Automation Engineer × Crypto Enthusiast**
-
-I build pragmatic tools at the intersection of **fraud/AML**, **risk analytics**, **crypto markets**, and **LLM-powered automation**. My background combines an M.S. in Finance (focus: fraud management) with hands‑on Python/TypeScript engineering—scrapers, agents, dashboards, and **market/data pipelines** that solve real problems.
-
----
-
-## What I’m working on
-
-* **MCP tools & agents** – Model Context Protocol servers that plug on‑chain/off‑chain sources straight into LLM workflows (jobs, markets, risk intel).
-* **Crypto market automation** – Playwright + headless pipelines for capturing charts/heatmaps, scanning signals, and delivering alerts (e.g., Telegram bots).
-* **Developer experience** – Small but punchy OSS utilities (MkDocs plugins, templates) that speed up docs, prototyping, and data exploration.
+I work at the intersection of **fraud investigation, AML compliance, and applied AI automation** inside regulated financial environments.  
+My focus is on building **LLM-assisted workflows** that reduce manual analytic load, improve consistency, and increase defensibility of decisions.
 
 ---
 
-## Selected projects
+## Selected Work (evidence of focus)
 
-*Crypto focus: liquidation heatmaps, signal scanners, and market data pipelines.*
+- **`aml-sar-drafting-agent-suite`** — AI-assisted orchestration for consistent, policy-aligned SAR narrative drafting
+- **`fraud-case-triage-orchestrator`** — Agentic pre-classification & enrichment layer for fraud case workflows before analyst review
+- **`regflow-compliance-monitor`** — Continuous rule-conformance monitoring against internal controls & regulatory requirements
 
-* **[mcp-stepstone](https://github.com/kdkiss/mcp-stepstone)** – StepStone job search via MCP. Reliable scraping with Playwright, structured JSON output, easy drop‑in for agents.
-* **[mcp-liquidation-map](https://github.com/kdkiss/mcp-liquidation-map)** – Capture and encode crypto liquidation heatmaps (Playwright), optimized for agent workflows.
-* **[telegram-liquidation-maps](https://github.com/kdkiss/telegram-liquidation-maps)** – End‑to‑end pipeline to fetch, process, and deliver liquidation heatmaps to Telegram.
-* **[crypto-signal-scanner](https://github.com/kdkiss/crypto-signal-scanner)** – Detects TD9, Elliott, MACD/RSI signals; sends annotated alerts.
-* **[mkdocs\_quiz\_plugin](https://github.com/kdkiss/mkdocs_quiz_plugin)** & **[mkdocs-bootstrap-elements-plugin](https://github.com/kdkiss/mkdocs-bootstrap-elements-plugin)** – Handy MkDocs plugins for interactive docs and Bootstrap components.
-* **[breakoutpropterminal](https://github.com/kdkiss/breakoutpropterminal)** – Electron‑based trading terminal prototype.
-
-> Tip: check my ⭐️ **Stars** tab for the agent frameworks I’m exploring (Agent‑Zero, Suna, and more).
+> These projects reflect **production-grade thinking**: alignment to banking constraints, auditability, explainability, and risk posture.
 
 ---
 
-## Toolbox
-
-**Languages:** Python, TypeScript/JavaScript, SQL
-**Data/ML:** Pandas, NumPy
-**Automation:** Playwright, Docker, GitHub Actions
-**LLMs/Agents:** Anthropic Claude (Sonnet/Haiku), OpenRouter, AWS Bedrock, MCP
-**Crypto/Markets:** ccxt, exchange/websocket APIs, on‑chain data (Etherscan/Dune), TA indicators
-**Docs:** MkDocs (+ Material), custom plugins
+## What I actually build
+AI systems that assist — not replace — regulated decision-making by:
+- Pre-structuring fraud/AML inputs before analyst review
+- Orchestrating multi-agent analysis against legal & bank rules
+- Generating draft artefacts (e.g. SAR narratives) with audit-trace
+- Embedding regulatory guardrails into automated flows
 
 ---
 
-## Domain strengths
+<details>
+<summary><strong>Architecture & Methods (click to expand)</strong></summary>
 
-* Fraud prevention & transaction monitoring
-* AML, compliance, and risk management
-* Forensic data analysis, pattern detection, behavior trends
-* **Crypto markets & derivatives**, technical analysis, exchange integrations, alerting/automation
-
----
-
-## About me
-
-* **Fraud Specialist @ TARGO** (Germany) — optimized internal review flows and knowledge bases; collaborate daily with legal on edge cases.
-* **Crypto builder:** market tooling, bots, and research—hands-on with exchange APIs and on‑chain data.
-* **Previously:** chargeback & large‑volume case handling; team onboarding/coaching.
-* **Education:** M.S. Finance (Fraud Management focus); B.S. MIS + Business Analytics.
-* **Languages:** 🇩🇪 German, 🇺🇸 English (bilingual)
+- **Agentic orchestration**: CrewAI, strategy trees, context-scoped tool access
+- **Data stack**: Python, SQL, ETL for investigation-grade inputs
+- **Reasoning constraints**: policy-aligned prompt control, defensive LLM usage
+- **Workload targets**: case triage, enrichment, narrative generation, rule checks
+- **Non-numerical success criteria**: consistency, defensibility, throughput, auditability
+</details>
 
 ---
 
-## Let’s collaborate
+<details>
+<summary><strong>Fraud / AML / Compliance Domain Scope (click to expand)</strong></summary>
 
-* Interested in **fraud‑tech**, **risk analytics**, **LLM agents**, or **crypto market tooling** (signals, liquidations, bots)? I’m open to collabs and contributions.
+- Fraud case investigation & pre-arbitration workflows
+- AML fundamentals: SAR drafting logic, red flags, typologies
+- Governance & controls: internal rule adherence, explainability
+- Regulatory context awareness (EU banking & financial crime)
+</details>
 
-> If you like something here, a ⭐️ goes a long way. I’m happy to review PRs or discuss ideas in issues.
+---
+
+<details>
+<summary><strong>Other Technical Areas (crypto analytics / market structure) — reduced scope</strong></summary>
+
+Applied crypto/market microstructure projects retained only where analytically transferable
+(e.g. liquidation heatmapping, automated capture logic, risk-driven alerting), now positioned
+as **methodology**, not career identity.
+</details>
+
+---
+
+## Contact
+Open to roles in **Fraud AI · Financial Crime Automation · Applied LLM Systems in regulated environments**.  
+Email: **koljakiss@icloud.com**
+
